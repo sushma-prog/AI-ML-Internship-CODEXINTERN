@@ -32,3 +32,5 @@ This repository contains the projects I completed during my **Artificial Intelli
 - **Skills Gained:** Text preprocessing, feature extraction, NLP basics, classification.
 
 ---
+
+“This project was completed as part of my AI/ML internship with CODEXINTERN (Aug 2025). Certificates available upon request.”
